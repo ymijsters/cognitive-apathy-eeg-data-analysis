@@ -1,0 +1,12 @@
+# Folders
+Pilot Data/
+ICA Data/
+Cleaned EEG Data/
+Combined Raw Data/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
